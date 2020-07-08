@@ -7,6 +7,7 @@ class AppWindow extends BrowserWindow {
       height: 600,
       webPreferences: {
         nodeIntegration: true,
+        webSecurity: false,
       },
       show: false,
       backgroundColor: '#efefef',

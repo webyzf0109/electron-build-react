@@ -1,5 +1,5 @@
 {
-  "name": "cloud-doc",
+  "name": "export-excel",
   "version": "1.0.0",
   "main": "main.js",
   "description": "Online Markdown Editor using Qiniu cloud service",
@@ -7,7 +7,7 @@
     "name": "yzf",
     "email": "webyzf0109@163.com"
   },
-  "repository": "https://github.com/vikingmute/clouddoc",
+  "repository": "https://github.com/webyzf0109/electron-build-react.git",
   "private": true,
   "dependencies": {
     "axios": "^0.19.2",
@@ -81,7 +81,7 @@
         "msi",
         "nsis"
       ],
-      "icon": "assets/favicon.ico",
+      "icon": "assets/logo.ico",
       "artifactName": "${productName}-Web-Setup-${version}.${ext}",
       "publisherName": "Viking Zhang"
     },
