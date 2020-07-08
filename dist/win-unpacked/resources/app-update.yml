@@ -1,0 +1,6 @@
+owner: webyzf0109
+repo: electron-build-react
+provider: github
+updaterCacheDirName: export-excel-updater
+publisherName:
+  - Viking Zhang
