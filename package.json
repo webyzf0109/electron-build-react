@@ -10,7 +10,7 @@
   "repository": "https://github.com/webyzf0109/electron-build-react.git",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "electron-store": "^4.0.0"
   },
@@ -107,7 +107,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "qiniu": "^7.2.2",
     "concurrently": "^4.1.1",
     "cross-env": "^5.2.0",
